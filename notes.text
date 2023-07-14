@@ -1,0 +1,8 @@
+Para ver todos los usuarios con sus pqrs realizadas
+http://localhost:5000/users?_embed=pqrs
+
+Para ver las pqrs de un usuario en particular
+http://localhost:5000/users/1?_embed=pqrs
+
+Documentación JSON SERVER
+https://github.com/typicode/json-server#plural-routes
